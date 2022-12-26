@@ -1,0 +1,16 @@
+/Users/ambertorres/code/AdventOfCode2022/Day02/bin/Debug/net7.0/Day02
+/Users/ambertorres/code/AdventofCode2022/Day02/bin/Debug/net7.0/Day02.deps.json
+/Users/ambertorres/code/AdventofCode2022/Day02/bin/Debug/net7.0/Day02.runtimeconfig.json
+/Users/ambertorres/code/AdventOfCode2022/Day02/bin/Debug/net7.0/Day02.dll
+/Users/ambertorres/code/AdventOfCode2022/Day02/bin/Debug/net7.0/Day02.pdb
+/Users/ambertorres/code/AdventOfCode2022/Day02/obj/Debug/net7.0/Day02.csproj.AssemblyReference.cache
+/Users/ambertorres/code/AdventOfCode2022/Day02/obj/Debug/net7.0/Day02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ambertorres/code/AdventOfCode2022/Day02/obj/Debug/net7.0/Day02.AssemblyInfoInputs.cache
+/Users/ambertorres/code/AdventOfCode2022/Day02/obj/Debug/net7.0/Day02.AssemblyInfo.cs
+/Users/ambertorres/code/AdventOfCode2022/Day02/obj/Debug/net7.0/Day02.csproj.CoreCompileInputs.cache
+/Users/ambertorres/code/AdventOfCode2022/Day02/obj/Debug/net7.0/Day02.dll
+/Users/ambertorres/code/AdventOfCode2022/Day02/obj/Debug/net7.0/refint/Day02.dll
+/Users/ambertorres/code/AdventOfCode2022/Day02/obj/Debug/net7.0/Day02.pdb
+/Users/ambertorres/code/AdventofCode2022/Day02/obj/Debug/net7.0/Day02.genruntimeconfig.cache
+/Users/ambertorres/code/AdventofCode2022/Day02/obj/Debug/net7.0/ref/Day02.dll
+/Users/ambertorres/code/AdventOfCode2022/Day02/bin/Debug/net7.0/input02.txt

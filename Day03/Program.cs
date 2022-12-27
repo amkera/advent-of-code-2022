@@ -50,8 +50,6 @@ int Part2()
 
     Console.WriteLine($"Answer to part 2: {sumOfPriorities}");
     return sumOfPriorities;
-
-
 }
 
 Part2();

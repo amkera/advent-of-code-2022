@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <LangVersion>11.0</LangVersion>
+        <Nullable>enable</Nullable>
+        <OutputType>Exe</OutputType>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <TargetFramework>net7.0</TargetFramework>
+        <RootNamespace>Day01_1</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <None Remove="input06.txt" />
+        <Content Include="input06.txt" CopyToOutputDirectory="PreserveNewest" />
+    </ItemGroup>
+
+</Project>

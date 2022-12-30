@@ -34,6 +34,23 @@ int calculateCharactersToBeProcessed(int desiredLength)
     var line = allData[0];
     for (var index = 0; index < line.Length - desiredLength - 1; index++)
     {
+        if (line[index..].Take(desiredLength).Distinct().Count() != desiredLength) continue;
+        Console.WriteLine($"The answer to part 1 is {index + desiredLength}");
+        return index + desiredLength;
+    }
+
+    throw new InvalidOperationException();
+}
+
+calculateCharactersToBeProcessed(14);
+
+//Before the editor's suggestions
+/**
+ * int calculateCharactersToBeProcessed(int desiredLength)
+{
+    var line = allData[0];
+    for (var index = 0; index < line.Length - desiredLength - 1; index++)
+    {
         if (line.Substring(index).Take(desiredLength).Distinct().Count() == desiredLength)
         {
             Console.WriteLine($"The answer to part 1 is {index + desiredLength}");
@@ -45,5 +62,7 @@ int calculateCharactersToBeProcessed(int desiredLength)
 }
 
 calculateCharactersToBeProcessed(14);
+  /
 
-//Part 1 can be solved with desiredLength = 4, and part 2 with desiredLength = 14 as seen above
+
+//Part 1 can be solved with desiredLength = 4, and part 2 with desiredLength = 14
